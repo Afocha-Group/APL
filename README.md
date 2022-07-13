@@ -1,13 +1,13 @@
 [![Likes](https://img.shields.io/badge/total_likes-3477-orange.svg?style=flat-square)](#likes)
 
 <h1 align="center" style="margin-top: 1em; margin-bottom: 3em;">
-  <p><a href="https://afocha.org/apl/about.apl"><img alt="apl logo" src="./apl.png" alt="apl" width="125"></a></p>
-  <p>AVM Programming language</p>
+  <p><a href="https://afocha.org/apl/about.apl"><img alt="apl logo" src="./apl.png" width="50"></a></p>
+  <p>APL</p>
 </h1>
 
-## APL on AfochaVM
+## About
 
-APL is a programming language designed for the [AVM](https://afocha.org/docs/avm/) to create dynamic web-applications.
+APl is a programming language designed for the [AVM](https://afocha.org/docs/avm/) to create dynamic web-applications.
 
 Apl introduce fast and simple functions to build and release your applications on blockchain.
 
